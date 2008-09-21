@@ -1,0 +1,10 @@
+Introduction
+~~~~~~~~~~~~
+
+django-payments is a free payments library for Django. It supports various
+payment methods like credit card, direct debit or Paypal.
+
+We aim to provide a full-features, out of the box application that can be
+dropped into an existing Django application.
+
+Brought to you by the folks at Helpdesk <http://www.helpdeskhq.com>
